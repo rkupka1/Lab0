@@ -26,12 +26,12 @@ First we need to create an IntelliJ project in a well-named, easy to locate fold
 
 Program are written in .java files and compiled into .class files.
 1) Click the arrow next to the Lab1 folder in the Project Viewer Pane. This will expand the project folder.
-2) Write click on the `src` folder and navigate to `New`. Click `Java Class`. When prompted for a name, name the class `Lab0_1`.
+2) Write click on the `src` folder and navigate to `New`. Click `Java Class`. When prompted for a name, name the class `Lab0`.
 
 The Text Editor Pane will now contain a page with the following:
 
 ```
-public class Lab0_1{
+public class Lab0{
 }
 ```
 
@@ -40,8 +40,6 @@ Inside of that class is where you will place the `main` method of your program. 
 ```
 Hello World!
 ```
-
-Try printing **exactly** that by calling `print` or `println` only once, and try to print it exactly that way calling `print` or `println` 3 times.
 
 You can compile and run your program in IntelliJ by selecting `Run > Run` from the header, pressing the green "Play Button" next to the `main` method, or pressing `Shift+F10`.
 
